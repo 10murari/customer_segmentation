@@ -45,5 +45,5 @@ Dataset Source: [Kaggle - Mall Customer Segmentation](https://www.kaggle.com/dat
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-segmentation-clustering.git
+git clone https://github.com/10murari/customer_segmentation.git
 cd customer-segmentation-clustering
