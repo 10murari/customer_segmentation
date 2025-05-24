@@ -46,4 +46,4 @@ Dataset Source: [Kaggle - Mall Customer Segmentation](https://www.kaggle.com/dat
 
 ```bash
 git clone https://github.com/10murari/customer_segmentation.git
-cd customer-segmentation
+cd customer_segmentation
